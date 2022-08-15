@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Ajio-Live-React/static/css/main.778b7ec2.css",
+    "main.js": "/Ajio-Live-React/static/js/main.0eba7634.js",
+    "static/media/fourth.webp": "/Ajio-Live-React/static/media/fourth.464214d5635ecf0671f9.webp",
+    "static/media/twenty.jpg": "/Ajio-Live-React/static/media/twenty.0e36c1f329bdd2dfc27f.jpg",
+    "static/media/eighteen.webp": "/Ajio-Live-React/static/media/eighteen.0c79b1302c2cf0c9c05c.webp",
+    "static/media/first.webp": "/Ajio-Live-React/static/media/first.44ee61dfb236652a754b.webp",
+    "static/media/eight.webp": "/Ajio-Live-React/static/media/eight.899e6f9bd8fa732c5059.webp",
+    "static/media/twentyfour.webp": "/Ajio-Live-React/static/media/twentyfour.5512b588c7aae49fcc01.webp",
+    "static/media/twentyseven.webp": "/Ajio-Live-React/static/media/twentyseven.c9389d5e594dc0443ac6.webp",
+    "static/media/twentyfive.webp": "/Ajio-Live-React/static/media/twentyfive.78182a0f568d0e3e316b.webp",
+    "static/media/ten.webp": "/Ajio-Live-React/static/media/ten.617bf159f45baee3ed09.webp",
+    "static/media/twentytwo.webp": "/Ajio-Live-React/static/media/twentytwo.3ebf2eb92d2143fa85ff.webp",
+    "static/media/twentysix.webp": "/Ajio-Live-React/static/media/twentysix.5d65e2addc685b12d5eb.webp",
+    "static/media/eleven.webp": "/Ajio-Live-React/static/media/eleven.267e6d1fa27cc0927865.webp",
+    "static/media/fifteen.webp": "/Ajio-Live-React/static/media/fifteen.5373f75b5e7daca70157.webp",
+    "static/media/sixteen.webp": "/Ajio-Live-React/static/media/sixteen.b3704661627918c482b7.webp",
+    "static/media/fourteen.webp": "/Ajio-Live-React/static/media/fourteen.2b7da05b28617d19c50a.webp",
+    "static/media/five.webp": "/Ajio-Live-React/static/media/five.62362288c25b6aaf807a.webp",
+    "static/media/thirteen.webp": "/Ajio-Live-React/static/media/thirteen.e33945dd750004d4d916.webp",
+    "static/media/six.webp": "/Ajio-Live-React/static/media/six.5c0b19c79a35abe37609.webp",
+    "static/media/second.webp": "/Ajio-Live-React/static/media/second.cb8a5b1e01c99c729b68.webp",
+    "static/media/third.webp": "/Ajio-Live-React/static/media/third.f9a847a37f3d49972cd2.webp",
+    "static/media/twentythree.webp": "/Ajio-Live-React/static/media/twentythree.0a9596921195b4e0c847.webp",
+    "static/media/wishlistIcon.svg": "/Ajio-Live-React/static/media/wishlistIcon.13d589d93dfec660c922b3786e8acc7e.svg",
+    "static/media/ninteen.webp": "/Ajio-Live-React/static/media/ninteen.74198739dded1eeef183.webp",
+    "static/media/twentyone.webp": "/Ajio-Live-React/static/media/twentyone.79de13bc36b07923a42b.webp",
+    "static/media/seventeen.webp": "/Ajio-Live-React/static/media/seventeen.41db5ac68e0bfa79d1a9.webp",
+    "static/media/nine.webp": "/Ajio-Live-React/static/media/nine.7f2ef59b8518d39a442f.webp",
+    "static/media/seven.webp": "/Ajio-Live-React/static/media/seven.b0144105ae4b7bab6b3f.webp",
+    "static/media/twelve.webp": "/Ajio-Live-React/static/media/twelve.98dffa75708fdb013682.webp",
+    "static/media/Ajio.svg": "/Ajio-Live-React/static/media/Ajio.c386c5b6ef551bf3df426f036c103e91.svg",
+    "index.html": "/Ajio-Live-React/index.html",
+    "main.778b7ec2.css.map": "/Ajio-Live-React/static/css/main.778b7ec2.css.map",
+    "main.0eba7634.js.map": "/Ajio-Live-React/static/js/main.0eba7634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778b7ec2.css",
+    "static/js/main.0eba7634.js"
+  ]
+}
